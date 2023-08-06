@@ -38,7 +38,7 @@ Note that probability of random variable taking a single value is 0.
 - Mean: average value
 $\mu = E[x]$ 
 - Variance: spread of values
-$ \sigma = E[(X-E[X])^2] = E[X^2] - (E[X])^2 $
+$\sigma = E[(X-E[X])^2] = E[X^2] - (E[X])^2 $
 - Bias: average deviation of estimator/prediction from actual value
 
 - Covariance: 
@@ -57,7 +57,7 @@ For ML,
 
 - Accuracy:  (TP+TN) / Total 
 --> fraction of correct predictions
-- Precision: TP / (TP+FP) :
+- Precision: TP / (TP+FP) 
 --> fraction of predicted positives that were true
 - Recall: TP / (TP+FN)
 --> fraction of actual positives that were identified correctly
