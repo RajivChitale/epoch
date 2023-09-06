@@ -1,0 +1,6 @@
+- **Advantages of DP methods**
+  - Polynomial Runtime
+  - Converges to optimal policy
+- **Disadvantages of DP methods**
+  - Not feasible for very large number of states.
+  - Requires knowledge of model for rewards and transitions
