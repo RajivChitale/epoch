@@ -9,7 +9,7 @@ It is like an MRP which allows the agent to take an action from a state. Transit
 ### Markov Decision Process in Detail
 - Reinforcement learning problems can be modelled using Markov Decision Processes or MDPs.
 
-<img src='https://ml-lectures.org/_images/mdp.png'>
+![](images/02-mdp.png)
 
 - MDPs are a 5-tuple $(S, A, P_a, R_a, \gamma)$
   - $S$: set of all states

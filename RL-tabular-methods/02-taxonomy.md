@@ -28,6 +28,7 @@ RL methods can be classified on the basis of:
   eg. SARSA
   - Off-Policy: current policy is not used to update Q values. eg. Q-Learning
 
-- Implementation:
-  - Dynamic Programming Methods
-  - Monte Carlo Methods
+- Reward lookahead:
+  - Dynamic Programming Methods- none
+  - Temporal Difference Methods- upto n steps
+  - Monte Carlo Methods- till end of episode
